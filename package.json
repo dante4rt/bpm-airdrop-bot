@@ -1,0 +1,21 @@
+{
+  "name": "bpm-airdrop-bot",
+  "version": "1.0.0",
+  "description": "A bot to automate the completion of missions on the BPM Rewards platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "airdrop",
+    "bot",
+    "BPM Rewards",
+    "automation"
+  ],
+  "author": "dante4rt",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colors": "^1.4.0"
+  }
+}
